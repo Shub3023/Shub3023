@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Kale</h1>
 <h3 align="center">A passionate Full Stack Java Developer from India</h3>
-<img align="right" alt="codding" width="400px" height="300px" src="https://i.pinimg.com/originals/9c/18/fd/9c18fda9d8c4cf51e8bb2ac13e02dc93.gif">
+<img align="right" alt="codding" width="350px" height="350px" src="https://i.pinimg.com/originals/9c/18/fd/9c18fda9d8c4cf51e8bb2ac13e02dc93.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shub3023&label=Profile%20views&color=0e75b6&style=flat" alt="shub3023" /> </p>
 
